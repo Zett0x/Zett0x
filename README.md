@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Zett0x
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning MERN / MEAN stack
-- 💞️ I’m looking to collaborate on JavaScript projects using React.
+- 👋 Hi, I’m @Zett0x, currently working as a python developer in a cybersecurity team
 - 📫 How to reach me: zetto1514@gmail.com
